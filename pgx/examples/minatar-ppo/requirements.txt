@@ -1,0 +1,7 @@
+pgx>=2.0.0
+dm-haiku
+optax
+distrax
+omegaconf
+pydantic
+wandb
