@@ -2,6 +2,8 @@
 
 This repository accompanies the preprint **Variance-Aware Prior-Based Tree Policies for Monte Carlo Tree Search**
 
+[https://arxiv.org/abs/2512.21648](https://arxiv.org/abs/2512.21648)
+
 It contains reference implementations and experimental code used in the paper, with a focus on variance-aware tree policies for Monte Carlo Tree Search (MCTS).
 
 
