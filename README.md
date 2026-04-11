@@ -6,6 +6,7 @@ This repository accompanies the preprint **Variance-Aware Prior-Based Tree Polic
 
 It contains reference implementations and experimental code used in the paper, with a focus on variance-aware tree policies for Monte Carlo Tree Search (MCTS).
 
+> WORK IN PROGRESS: The synthetic bandit & tree evaluations will be added in the near future.
 
 ## Abstract
 
